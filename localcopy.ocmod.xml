@@ -1,6 +1,6 @@
 <modification>
-	<code>localcopy_ocmod_2x</code>
-	<name>Localcopy OCMOD 2x</name>
+	<code>fix_localcopy_ocmod_2x</code>
+	<name>Fix Localcopy OCMOD 2x</name>
 	<version>1.0</version>
 	<author>Setbenson</author>
 	<email>setbenson@gmail.com</email>
@@ -90,5 +90,5 @@
 				}
 			]]></add>
 		</operation>
-	</file>	
+	</file>
 </modification>
